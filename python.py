@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 marks=int(input("enter your number in maths:"))
 if marks>=90 and marks<=100:
   print("A+")
@@ -17,9 +16,10 @@ elif marks>=0 and marks<40:
 else:
   print("invalid marks")
              
-
-=======
+--------------------
+--------------------
 v=10
 m=4
 print(v+m)
->>>>>>> a4cea141fec79223b47b07528128572af172b327
+--------------------
+--------------------
